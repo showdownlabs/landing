@@ -5,7 +5,10 @@ export default function Privacy() {
       <p style={styles.p}>
         Showdown Labs LLC (“we”, “us”) operates websites and applications we build and
         incubate. This policy explains how we handle information when you visit our
-        site or use our products.
+        site or use our products. 
+        
+        This privacy policy applies to all Showdown Labs products and applications, 
+        including the Cineleague mobile application
       </p>
 
       <h2 style={styles.h2}>Information we may collect</h2>
